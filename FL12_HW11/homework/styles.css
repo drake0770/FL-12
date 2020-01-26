@@ -1,0 +1,22 @@
+* {
+  list-style: none;
+}
+
+.divfolder :hover {
+  background-color: rgb(221, 221, 236);
+}
+
+.divfolder {
+  cursor: pointer;
+}
+
+#zero {
+  font-style: italic;
+}
+
+.openfolder {
+  display: block;
+}
+.closefolder {
+  display: none;
+}
